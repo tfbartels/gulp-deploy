@@ -1,0 +1,10 @@
+{
+  "sistema": "nomesistema",
+  "ftp": {
+    "host": "enderecoftp",
+    "port": 21,
+    "path": "diretorioftp",    
+    "user": "usuario",
+    "password": "senha"
+  }
+}
