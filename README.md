@@ -1,1 +1,1 @@
-# gulp-deploy
+# gulp-ftp-deploy
